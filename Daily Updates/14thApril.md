@@ -2,7 +2,7 @@
 
 📌 **14th April**  
 ✅ Analyzed the "Anime Ratings & Metrics" feature  
-✅ Defined the ML pipeline (Data Collection,  Data Preprocessing, Exploratory Data Analysis, Model Building, Model Deployment) for rating prediction & success classification 
+✅ Defined the ML pipeline (Data Collection,  Data Preprocessing, Exploratory Data Analysis, Model Building, Model Deployment) for rating prediction & success classification<br>
 ✅ Focused on the **Data Collection** phase  
 ✅ Explored various data collection methods (API, scraping, user logs)  
 ✅ Tested Jikan API with sample anime queries  
